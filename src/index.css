@@ -138,3 +138,8 @@ footer {
 .filter div {
   flex: 1;
 }
+
+.filter-sort select,
+.filter-size select {
+  border: 0.1rem solid #f0c040;
+}
